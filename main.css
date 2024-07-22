@@ -1,0 +1,33 @@
+*.text1{
+    background-color: rgb(63, 63, 181);
+}
+
+.otas{
+    width: 1200px;
+    height: 600px;
+    background-color: rgb(255, 238, 0);
+    margin: auto;
+    border-radius: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 60px;
+    padding: 40px;
+    flex-wrap: wrap;
+    
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    
+}
+
+.box2{
+    width: 80px;
+    background-color: rgb(168, 47, 47);
+   color: #ffffff;;
+   margin: auto;
+   text-align: center;
+}
